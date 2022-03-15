@@ -1,0 +1,40 @@
+* {
+    background-color: rgb(214, 245, 247);
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: auto;
+    cursor: pointer;
+    font-size: 20px;
+    
+}
+ h1,h2 {
+     color: darkblue;
+     text-align: center;
+     font-size: 35px;
+ }
+ 
+ h3 {
+     font-size: 25px;
+     color: royalblue;
+ }
+div  {
+    line-height: 1.8em;
+    font-size: 16px;
+    width: fit-content;
+    margin: 35px;
+    padding: 35px;
+
+    }
+ p {
+     text-align: justify;
+ }
+    ul li {
+        color: black;
+        font-size: 20px;
+    }
+
+.picture {
+    border-radius: 10px;
+    width: 200px;
+    height: 200px
+}
